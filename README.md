@@ -46,4 +46,4 @@ This repository consists of rules how to design
        return True
        return False
        
-      :smirk:
+     
